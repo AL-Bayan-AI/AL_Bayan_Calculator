@@ -2,20 +2,13 @@
 
 print("Welcome to the AL bayan Apps\nWe're here to help you with math,Specifically divison, multiplication,Addition,and Subtraction Note : The project developer dose note permit the app to be copied without thir knowledge.")
 
-
 print("__________________________________________________________")
-
-
-
 
 name=str(input("Enter your name : "))
 print("Welcome to Al bayan Apps : " +str(name))
 num1=float(input("Enter First Number  : "))
 oper=input("Chose an operation (+.-.*./.%) : ")
 num2=float(input("Enter Sec Number : "))
-
-
-
 
 if oper=="+":
     result=num1+num2
@@ -39,10 +32,6 @@ elif oper=="%":
     result=num1%num2
     print(num1,"%" ,num2, "= ",result)
     
-
-
-
-
 print("Good?")
 say=input()
 print("ok is your like this? while say : " +str(say))

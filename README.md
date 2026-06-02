@@ -30,7 +30,6 @@ This project was created as a beginner-level practice to strengthen programming 
 
 
 
-
 ## 🚀 How to Run
 
 1. Make sure Python is installed on your device.

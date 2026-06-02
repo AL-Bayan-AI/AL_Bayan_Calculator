@@ -50,16 +50,7 @@ Bash
 python main.py
 
 📷 Preview
-
-
-
-
-
-
-
-
-
-
+Check the result after entering any number to divide or multiply, etc. If you encounter a problem, you can submit it via email. 
 
 🧠 What I Learned
 Python programming basics

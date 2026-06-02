@@ -1,7 +1,7 @@
 # AL_Bayan Calculator
 
 
-## 📌 Overview
+## 🪧 Overview
 AL_Bayan Calculator is a simple calculator project developed using Python.  
 It performs basic arithmetic operations in an easy, fast, and user-friendly way.
 
@@ -11,7 +11,7 @@ This project was created as a beginner-level practice to strengthen programming 
 ---
 
 
-## ⚙️ Features
+## ▫️ Features
 - Addition (+)
 - Subtraction (-)
 - Multiplication (×)
@@ -30,7 +30,7 @@ This project was created as a beginner-level practice to strengthen programming 
 
 
 
-## 🚀 How to Run
+## 🔹️ How to Run
 
 1. Make sure Python is installed on your device.
 
@@ -51,18 +51,21 @@ python main.py
 📷 Preview
 Check the result after entering any number to divide or multiply, etc. If you encounter a problem, you can submit it via email. 
 
-🧠 What I Learned
+🔹️ What I Learned
 Python programming basics
 Logic building for calculations
 GitHub project structure
 Code organization and version control
-🚀 Future Improvements
+
+▫️Future Improvements
 Add scientific calculator functions
 Create GUI version using Tkinter or Web
 Add calculation history
 Improve error handling
 Optimize user input validation
+
 👤 Author
 Bayan Fadhil 
-📌 Note
+
+ Note/
 This is an educational project built for learning purposes.

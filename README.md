@@ -39,22 +39,17 @@ This project was created as a beginner-level practice to strengthen programming 
 ```bash
 git clone https://github.com/AL-Bayan-AI/AL_Bayan_Calculator.git
 
+2. Open project folder
+Bash
+cd AL_Bayan_Calculator
 
 
 
+3. Run the program
+Bash
+python main.py
 
-
-
-
-
-
-
-
-
-
-
-
-
+📷 Preview
 
 
 
